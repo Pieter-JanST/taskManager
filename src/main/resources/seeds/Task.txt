@@ -1,0 +1,5 @@
+ProjectId|description|estimatedDuration|acceptableDeviation|rolesNecessary|optional dependson
+13|Write JS Code|60|10.0|Developer
+13|Write Test Suites|120|20.0|PythonProgrammer,SysAdmin
+13|Write Even More Test Suites|120|20.0|JavaProgrammer|16,17
+15|Improve Performance|10|1.5|PythonProgrammer

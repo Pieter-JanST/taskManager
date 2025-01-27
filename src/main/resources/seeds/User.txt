@@ -1,0 +1,12 @@
+UserName|Password|OptionalRoles seperated by ,
+PieterJan|pj|Developer
+Milan|m|ProjectManager
+user|t|ProjectManager,Developer,JavaProgrammer,Programmer,PythonProgrammer,SysAdmin
+userD|d|Developer,PythonProgrammer
+userM|m|ProjectManager
+userN|n
+EndTaskTestUser1|n|ProjectManager,Developer,JavaProgrammer
+EndTaskTestUser2|n|ProjectManager,Developer,JavaProgrammer
+EndTaskTestUser3|n|ProjectManager,Developer,JavaProgrammer
+EndTaskTestUser4|n|ProjectManager,Developer,JavaProgrammer
+dev|t|Developer,JavaProgrammer,Programmer,PythonProgrammer,SysAdmin
